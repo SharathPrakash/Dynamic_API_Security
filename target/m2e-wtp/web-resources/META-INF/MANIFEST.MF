@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Dynamic_API_Security
+Implementation-Version: 0.1
+Built-By: Admin
+Implementation-Vendor-Id: com.src.api
+Build-Jdk: 1.8.0_171
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/Dynamic_API_Security
+Created-By: Maven Integration for Eclipse
+
